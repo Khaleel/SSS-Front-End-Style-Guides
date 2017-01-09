@@ -2,13 +2,17 @@
 
 This is a collection of suggested guides for development of apps within Sun & Sand Sports and across the GMG (Gulf Marketing Group) spectrum of companies.
 
-## Languages and Architecture
+##Architecture
 
 [Common Pratice][common]
 
 [Browser Support][common]
 
 [Architecture][common]
+
+[Arabic, currency and RTL][common]
+
+## Languages 
 
 [CSS][css]
 
