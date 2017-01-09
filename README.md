@@ -21,3 +21,9 @@ This is a collection of suggested guides for development of apps within Sun & Sa
 ## Tools, processes and other guidelines
 
 [Yeoman and other Build tools][build]
+
+[build]: build.md
+[common]: common.md
+[css]: css.md
+[html]: html.md
+[js]: js.md
