@@ -23,6 +23,10 @@ Last updated: 09.01.2017
 
 For a good quick overview, we recommend, Emmet, Sublime Text, Hyper.vs, JS Lint, SASS cli, NodeJS, NPM and Apple xcode.
 
+## Language Arabic
+
+We support en-US and ar-SA for now in a language META doctype. Arabic generally use rtl for direction and currency also uses Arabic delimeters and nominators so please stick with that as best practice.
+
 ## General-specific guidance
 
 - Do use correct English (preferably US) everywhere applicable.
